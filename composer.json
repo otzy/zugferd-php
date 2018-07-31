@@ -1,6 +1,6 @@
 {
-  "name": "easybill/zugferd-php",
-  "description": "..",
+  "name": "otzy/zugferd-php",
+  "description": "The fork of easybill/zugferd-php",
   "keywords": [
     "ZUGFeRD"
   ],
